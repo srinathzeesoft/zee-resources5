@@ -1,7 +1,7 @@
 Mkt3L10n.adminFieldHtmlEncodeForm = {
   Html_Encode_Tokens: "Tokens codificados em HTML em e-mails test test test test test test hh hfhf fdhfhbd ",
   Explain: "Configurar o comportamento padrão de codificação HTML em tokens de e-mail para todos os campos",
-  Remind: "Esta definição se aplica a todos os campos. Você também pode configurar esta definição para cada campo",
+  Remind: "Esta definição se aplica a todos os campos. Você também pode configurar esta definição para cada campo dwqfdwqvvfewfewf fedgfsdgv fgdsgsdv",
   Save: "SALVAR",
   Cancel: "Cancelar"
 };
