@@ -10,7 +10,7 @@ Mkt3L10n.adminDkimDomainDetailsForm = {
   Public_Key: "Chave pública",
   Host_Record: "Registro do host",
   TXT_Value: "Valor de TXT",
-  Close: "Fechar"
+  Close: "Fechar test test"
 };
 
 Mkt3L10n.adminAddDomainForm = {
