@@ -7,7 +7,7 @@ Mkt3L10n.adminFieldHtmlEncodeForm = {
 };
 Mkt3L10n.adminDkimDomainDetailsForm = {
   Verify_your_domain: "Após adicioná-lo, verifique seu domínio para ativar a assinatura.",
-  Public_Key: "Chave pública checking checking checking",
+  Public_Key: "Chave pública checking checking checking checking checking checking",
   Host_Record: "Registro do host",
   TXT_Value: "Valor de TXT",
   Close: "Fechar test test"
