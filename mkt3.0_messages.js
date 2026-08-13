@@ -1,5 +1,5 @@
 Mkt3L10n.adminFieldHtmlEncodeForm = {
-  Html_Encode_Tokens: "Tokens checking test"
+  Html_Encode_Tokens: "Tokens checking test now now now"
   Explain: "Configurar o comportamento padrão de codificação HTML em tokens de e-mail para todos os campos checking",
   Remind: "Esta definição se aplica a todos os campos. Você também pode configurar esta definição para cada campo test test test test test test test",
   Save: "SALVAR",
