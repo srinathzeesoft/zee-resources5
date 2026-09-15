@@ -1,10 +1,11 @@
 {
-  "lock": "Restringir acesso check check check check check test test test test",
-  "unLock": "Liberar acesso",
-  "validate": "Confirmar ação",
-  "create": "Criar registro",
-  "edit": "Editar registro",
-  "delete": "Excluir registro",
-  "view": "Visualizar registro",
-  "update": "Annuer"
+  "lock": "アクセス制限 チェック チェック チェック チェック チェック テスト テスト テスト テスト テスト テスト テスト テスト 今 今 今 今 今 今 今 今 今",
+  "unLock": "アクセスを許可する",
+  "validate": "アクションを確認する",
+  "create": "レコードを作成する",
+  "edit": "レコードを編集する",
+  "delete": "レコードを削除する",
+  "view": "レコードを表示する",
+  "update": "キャンセル",
+  "test purpose.json.Add_Custom_Column": "カスタム列の追加"
 }
