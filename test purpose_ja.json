@@ -1,5 +1,4 @@
 {
-  "test purpose.json.Add_Custom_Column": "カスタム列の追加",
   "lock": "",
   "unLock": "",
   "validate": "",
@@ -7,5 +6,6 @@
   "edit": "",
   "delete": "",
   "view": "",
+  "test purpose.json.Add_Custom_Column": "",
   "update": ""
 }
