@@ -1,7 +1,7 @@
 Mkt3L10n.AccountAnalyzerChart = {
   Trend: "",
   Opportunity: "",
-  Interactions: "インタラクション数",
+  Interactions: "",
   Week_Of_Date_Interaction: "",
   Date_Interaction: "",
   Interactions_Cumulative_: "インタラクション(累積)"
