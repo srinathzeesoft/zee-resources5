@@ -8,7 +8,7 @@ Mkt3L10n.AccountAnalyzerChart = {
 };
 Mkt3L10n.analytics = {
   N_A: "N/A",
-  Count_of_Leads_in_Smart_List: "スマート リストに掲載されているリードの数",
+  Count_of_Leads_in_Smart_List: "",
   Add_Custom_Column: "カスタム列の追加",
   Save_As: "名前を付けて保存...",
   Save: "保存",
