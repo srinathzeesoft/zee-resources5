@@ -8,7 +8,7 @@ Mkt3L10n.AccountAnalyzerChart = {
 };
 Mkt3L10n.analytics = {
   N_A: "N/A",
-  Count_of_Leads_in_Smart_List: "Count of Leads in Smart List",
+  Count_of_Leads_in_Smart_List: "Count of Leads in Smart List now now now now now",
   Add_Custom_Column: "Add Custom Column",
   Save_As: "Save As...",
   Save: "Save",
